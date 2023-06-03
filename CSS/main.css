@@ -11,7 +11,6 @@ html, body {
 body {
      font-family: 'Outfit';
      display: flex;
-     flex-direction: column;
      justify-content: center;
      align-items: center;
      background-color: hsl(212, 45%, 89%);
@@ -27,7 +26,6 @@ body {
 
 .article {
      max-width: 290px;
-     
 }
 
 .qr-code {
@@ -48,8 +46,4 @@ p {
      text-align: center;
      font-size: 15px;
      color: hsl(220, 15%, 55%);
-}
-
-.attribution {
-     padding-top: 15px;
 }
